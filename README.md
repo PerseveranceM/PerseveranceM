@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Perseverance Molefe</h1>
 <h3 align="center">A passionate full stack developer from South Africa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perseverancem" alt="perseverancem" /></a> </p>
-
 - 🌱 I’m currently learning **React and Node**
 
 - 👨‍💻 All of my projects are available on [my portfolio](perseverancem.github.io/)
